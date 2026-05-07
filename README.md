@@ -39,6 +39,6 @@ The notebook is designed to run on Google Colab. The libraries used and their pu
 
 # How to Run
 
-1. Open `HSL748_Project_Code (Final).ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `HSL748_Project_Code (Final).ipynb` in [Google Colab](https://colab.research.google.com/drive/1BjxuJy1QUPRLPbvq2NqZyY01Q6lHS-an?usp=sharing).
 2. Run all cells in order
 3. A Kaggle API token (`kaggle.json`) may be required for the news dataset download cell.
