@@ -14,8 +14,8 @@ Evaluation is performed on both the Wikipedia training corpus and an independent
 
 # Repository Contents
 
-HSL748_Project_Code (Final).ipynb   # Code notebook (coded on Google Colab)
-README.md                           # This file
+- HSL748_Project_Code (Final).ipynb   -  Code notebook (coded on Google Colab)
+- README.md                           -  This file
 
 # Pipeline 
 
@@ -30,12 +30,12 @@ README.md                           # This file
 
 The notebook is designed to run on Google Colab. The libraries used and their purposes are listed below:
 
-`datasets` (Hugging Face): for loading Marathi Wikimedia Wikipedia corpus 
-`sentencepiece`: for implementing BPE and Unigram tokenizer training
-`morfessor`: for unsupervised morphological segmentation (to compare its performance with BPE and Unigram)
-`kagglehub`: for downloading the Marathi news dataset
-`matplotlib`, `matplotlib_venn`: for plotting results 
-`pandas`: for tables 
+- `datasets` (Hugging Face): for loading Marathi Wikimedia Wikipedia corpus 
+- `sentencepiece`: for implementing BPE and Unigram tokenizer training
+- `morfessor`: for unsupervised morphological segmentation (to compare its performance with BPE and Unigram)
+- `kagglehub`: for downloading the Marathi news dataset
+- `matplotlib`, `matplotlib_venn`: for plotting results 
+- `pandas`: for tables 
 
 # How to Run
 
